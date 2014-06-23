@@ -1,0 +1,1 @@
+A simple Content Navigator Plugin for educational purposes

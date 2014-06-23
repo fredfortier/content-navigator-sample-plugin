@@ -1,0 +1,13 @@
+{
+  "name": "extend-widget",
+  "description": "",
+  "author": "Frederic Fortier <iam@confused.com>",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-dojo": "~0.3.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-copy": "~0.5.0"
+  }
+}

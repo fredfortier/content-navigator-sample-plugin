@@ -1,0 +1,14 @@
+{
+    "name": "extend-widget",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "dojo": "~1.8.2",
+        "dijit": "~1.8.2"
+    }
+}

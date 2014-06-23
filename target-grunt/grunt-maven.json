@@ -1,0 +1,9 @@
+{
+    "filesToWatch": "/Users/fredfortier/Documents/intellij20120506/sample-plugin/src/main/webapp//Users/fredfortier/Documents/intellij20120506/sample-plugin/src/webapp/**",
+    "directoryToWatch": "/Users/fredfortier/Documents/intellij20120506/sample-plugin/src/main/webapp//Users/fredfortier/Documents/intellij20120506/sample-plugin/src/webapp",
+    "projectRootPath": "/Users/fredfortier/Documents/intellij20120506/sample-plugin",
+    "targetPath": "/Users/fredfortier/Documents/intellij20120506/sample-plugin/target",
+    "sourceDirectory": "src/main/webapp",
+    "jsSourceDirectory": "/Users/fredfortier/Documents/intellij20120506/sample-plugin/src/webapp",
+    "filteredFiles": ["**/node_modules.tar"]
+}
