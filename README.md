@@ -8,7 +8,7 @@ A simple Content Navigator Plugin for educational purposes
 - node.js: http://nodejs.org/
 
 <h2>Getting Started</h2>
-Install:
+Enter these commands to start working on the project.
 ```shell
 git clone https://github.com/fredfortier/content-navigator-sample-plugin
 cd content-navigator-sample-plugin
